@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/treemapPBP_test/static/css/main.a8097d4d.css",
+    "main.js": "/treemapPBP_test/static/js/main.911ad789.js",
+    "static/js/496.f95d27ce.chunk.js": "/treemapPBP_test/static/js/496.f95d27ce.chunk.js",
+    "index.html": "/treemapPBP_test/index.html",
+    "main.a8097d4d.css.map": "/treemapPBP_test/static/css/main.a8097d4d.css.map",
+    "main.911ad789.js.map": "/treemapPBP_test/static/js/main.911ad789.js.map",
+    "496.f95d27ce.chunk.js.map": "/treemapPBP_test/static/js/496.f95d27ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8097d4d.css",
+    "static/js/main.911ad789.js"
+  ]
+}
